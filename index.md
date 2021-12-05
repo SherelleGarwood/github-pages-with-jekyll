@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my studies blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+My name is Sherelle Garwood, I am currently studying a MSc in Cyber Security at UoE. This site will document my learning throughout the course. 
